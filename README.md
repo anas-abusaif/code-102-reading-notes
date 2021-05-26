@@ -2,5 +2,5 @@
 |#|topic|
 |-|-|
 |1|[growth mindset]()|
-|2| Text |
-|3|wireframe|
+|2|[git]()|
+|3|[wireframe]()|
