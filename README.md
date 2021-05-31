@@ -6,3 +6,5 @@
 4. [HTML](https://anas-abusaif.github.io/reading-notes/HTML)
 5. [javascript](https://anas-abusaif.github.io/reading-notes/javascript)
 6. [loops and operators](https://anas-abusaif.github.io/reading-notes/loops%20and%20operators)
+9. [functions in java script](https://anas-abusaif.github.io/reading-notes/)
+10. [styling with css]()
